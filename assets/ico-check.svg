@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Checkmark-Icon</title>
+    <g id="Responsive-Breakpoints" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Base-Elements" transform="translate(-89.000000, -2225.000000)" fill-rule="nonzero" stroke="#000000" stroke-width="1.5">
+            <g id="_RESOURCE-FILTER" transform="translate(80.000000, 2026.000000)">
+                <g id="View-All-Filter" transform="translate(4.000000, 154.000000)">
+                    <g id="_Active" transform="translate(0.000000, 36.000000)">
+                        <g id="_Checkbox-/-Active" transform="translate(0.000000, 3.000000)">
+                            <polyline id="Checkmark-Icon" points="6 11.5805191 10.5073118 16.0878309 18.7280249 7.86711783"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
